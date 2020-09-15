@@ -1,0 +1,21 @@
+14:13:46	 From Bryce McCoy Hammond : does the decision making time out? like does it stay on this screen until i choice is made or will it remind the player to select a choice?
+14:14:42	 From Arjun Reddy : are they any accessibility options like captions for example
+14:16:17	 From Debashish Pradhan : I am not sure if they show if an option is already chosen and deemed wrong.
+14:17:13	 From Arjun Reddy : They also don’t highlight any options for cursor feedback
+14:18:33	 From Amy Nicole Asadi : Do they want this game built as a native app for android or IOS?
+14:18:35	 From Ibukun Akande : I'll leave and rejoin
+14:25:57	 From Debashish Pradhan : Ibukun asked: are we the one gonna come up with conflicts and resolution (aka the script)
+14:29:41	 From Debashish Pradhan : Chenxi - needs clarity on Co design and participatory design
+14:31:16	 From Debashish Pradhan : Arjun: Is mobile app a game or different experience?
+15:15:36	 From Bryce McCoy Hammond : https://coverr.co/tags/zoom-virtual-backgrounds
+15:15:43	 From Bryce McCoy Hammond : https://unsplash.com/collections/1887152/zoom-backgrounds
+15:15:49	 From Bryce McCoy Hammond : https://www.videvo.net/stock-video-footage/zoom/
+15:24:57	 From Bryce McCoy Hammond : https://github.com/brycemhammond
+15:25:13	 From chenxi : My id is lcx0215
+15:26:36	 From Ibukun Akande : iaa202
+15:27:27	 From Arjun Reddy : areddy6
+15:27:30	 From Amy Nicole Asadi : AmyAsadi-umd
+15:27:56	 From Molli Udis : mudis2094
+15:39:44	 From Debashish Pradhan to Molli Udis (Privately) : https://github.com/devMaster92/Cool-School/invitations
+15:41:45	 From Debashish Pradhan to Molli Udis (Privately) : https://github.com/devMaster92/Cool-School
+15:50:14	 From Amy Nicole Asadi : https://www.rationalgames.com/
