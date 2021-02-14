@@ -6,7 +6,7 @@
 /// Use horizontal speed and vertical speed if needed
 //h_spd = 0;
 //v_spd = 0;
-walk_spd = 1;
+walk_spd = 3;
 idle_spd = 0;
 
 /// global speed
@@ -18,7 +18,7 @@ yFrame = 8;
 
 
 /// default character
-spr_base = spr_light_base_female;
+spr_base = spr_light_base_male;
 spr_hair = spr_brunette_hair_male;
 spr_torso = spr_metal_chest_male;
 spr_arm = spr_metal_arms_male;
