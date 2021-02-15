@@ -1,3 +1,5 @@
 targetRoom = rm_library;
-targetX = 0;
-targetY = 0;
+
+
+//targetX = 660;
+//targetY = 470;

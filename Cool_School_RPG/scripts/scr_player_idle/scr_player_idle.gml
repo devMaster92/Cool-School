@@ -5,10 +5,10 @@ function scr_player_idle(){
 	
 	show_debug_message(global.character);
 	
-	if (global.character == "Human")
-		sprite_index = spr_player2;
-	else if (global.character == "Cartoon")
-		sprite_index = spr_player;
+	//if (global.character == "Human")
+		//sprite_index = spr_player2;
+	//else if (global.character == "Cartoon")
+		//sprite_index = spr_player;
 	
 	spd = idle_spd;
 	moveX = 0;
