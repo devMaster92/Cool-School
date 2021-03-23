@@ -34,7 +34,7 @@ text[0] = "Sarah: That was a mean thing to say Frank! Press E to continue.";
 text[1] = "Frank: Gee Sarah, I’m sorry I didn’t mean to hurt your feelings. Press E to continue.";
 text[2] = "Sarah: That’s Okay. Press E to continue.";
 text[3]= "Frank: Honest, I didn’t mean it. Press E to continue.";
-text[4]= "Narrator: Apologizing was the best thing frank could do. You made the library a kinder place. When your wrong remember to say you sorry. Press E to continue";
+text[4]= "Narrator: Apologizing was the best thing frank could do. You made the library a kinder place. When you are wrong remember to say you are sorry. Press E to continue";
 
 
 page = 0;

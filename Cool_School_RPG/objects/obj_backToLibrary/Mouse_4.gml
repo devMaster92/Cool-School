@@ -1,4 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-room_goto(rm_library1);
+global.character = obj_character.charType;
+room_goto(rm0);
