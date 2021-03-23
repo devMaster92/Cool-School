@@ -26,7 +26,7 @@ git clone https://github.com/devMaster92/Cool-School.git
 * Open **Cool_School_RPG.yyp** file with Game Maker 2. 
 * Once opened on Game Maker 2, hit **F5** to run the game!
 
-###### Change Log
+## Change Log
 
 * Game Environment setup 
 * Added room transition and animation
