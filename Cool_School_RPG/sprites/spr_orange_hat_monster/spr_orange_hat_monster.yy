@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 22,
-  "bbox_right": 559,
-  "bbox_top": 69,
-  "bbox_bottom": 272,
+  "bbox_left": 19,
+  "bbox_right": 556,
+  "bbox_top": 5,
+  "bbox_bottom": 271,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 640,
-  "height": 640,
+  "width": 641,
+  "height": 641,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 64,
   "gridY": 64,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"a3cbeb9e-6c81-4120-9310-428c775ab1af","path":"sprites/spr_orange_hat_monster/spr_orange_hat_monster.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a3cbeb9e-6c81-4120-9310-428c775ab1af","path":"sprites/spr_orange_hat_monster/spr_orange_hat_monster.yy",},"LayerId":{"name":"09d08df0-7fde-46d1-af38-2f26508f031c","path":"sprites/spr_orange_hat_monster/spr_orange_hat_monster.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_orange_hat_monster","path":"sprites/spr_orange_hat_monster/spr_orange_hat_monster.yy",},"resourceVersion":"1.0","name":"a3cbeb9e-6c81-4120-9310-428c775ab1af","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0dc5b6c4-6954-4646-8868-be8727849e17","path":"sprites/spr_orange_hat_monster/spr_orange_hat_monster.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0dc5b6c4-6954-4646-8868-be8727849e17","path":"sprites/spr_orange_hat_monster/spr_orange_hat_monster.yy",},"LayerId":{"name":"19e092bc-3fc7-469a-980f-1aa19dfebeb1","path":"sprites/spr_orange_hat_monster/spr_orange_hat_monster.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_orange_hat_monster","path":"sprites/spr_orange_hat_monster/spr_orange_hat_monster.yy",},"resourceVersion":"1.0","name":"0dc5b6c4-6954-4646-8868-be8727849e17","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_orange_hat_monster","path":"sprites/spr_orange_hat_monster/spr_orange_hat_monster.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"a352404c-f81b-41eb-b2b7-cd0ddfb81ded","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a3cbeb9e-6c81-4120-9310-428c775ab1af","path":"sprites/spr_orange_hat_monster/spr_orange_hat_monster.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"cc7b5ebf-0d9d-4764-a9eb-aa9cf4f859cb","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0dc5b6c4-6954-4646-8868-be8727849e17","path":"sprites/spr_orange_hat_monster/spr_orange_hat_monster.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"09d08df0-7fde-46d1-af38-2f26508f031c","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"19e092bc-3fc7-469a-980f-1aa19dfebeb1","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Hats",
