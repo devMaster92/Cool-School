@@ -18,25 +18,40 @@ yFrame = 8;
 
 spr_body_set = [spr_monkey, spr_fox, spr_monster];
 
-show_debug_message(global.character);
+spr_monkey_hat_set = [spr_green_hat_monkey, spr_orange_hat_monkey];
+spr_fox_hat_set = [spr_green_hat_fox, spr_orange_hat_fox];
+spr_monster_hat_set = [spr_green_hat_monster, spr_orange_hat_monster];
+
+
 
 
 /// default character
 if (global.character == "h") {
 	
 	spr_body = spr_body_set[0];
-	spr_hat = spr_orange_hat_monkey;
+	spr_sunglasses = spr_black_glass_monkey;
+	spr_hat =  spr_monkey_hat_set[global.hatIndex];
+	spr_shirt = spr_blue_shirt_monkey;
+	spr_pants = spr_blue_pants_monkey;
+	spr_socks = spr_blue_socks_monkey;
 	
-
 }
 else if (global.character == "a") {
 	spr_body = spr_body_set[1];
-	spr_hat = spr_orange_hat_fox;
+	spr_sunglasses = spr_black_glass_fox;
+	spr_hat = spr_fox_hat_set[global.hatIndex];
+	spr_shirt = spr_blue_shirt_fox;
+	spr_pants = spr_blue_pants_fox;
+	spr_socks = spr_blue_socks_fox;
 
 }
 else if (global.character == "n") {
 	spr_body = spr_body_set[2];
-	spr_hat = spr_orange_hat_monster;
+	spr_sunglasses = spr_black_glass_monster;
+	spr_hat = spr_monster_hat_set[global.hatIndex];
+	spr_shirt = spr_blue_shirt_monster;
+	spr_pants = spr_blue_pants_monster;
+	spr_socks = spr_blue_socks_monster;
 
 }
 

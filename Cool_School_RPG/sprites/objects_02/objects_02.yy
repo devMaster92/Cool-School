@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c5f90f16-15b3-475e-9f66-ad1e130c8de1","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Art Room",
-    "path": "folders/Sprites/Art Room.yy",
+    "name": "Art_Room",
+    "path": "folders/Sprites/Conflict_Scenarios/Art_Room.yy",
   },
   "resourceVersion": "1.0",
   "name": "objects_02",

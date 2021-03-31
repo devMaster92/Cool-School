@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b7ec14bf-d93b-4a56-b68a-e09427c26f05","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "GUI",
-    "path": "folders/Sprites/GUI.yy",
+    "name": "Customization",
+    "path": "folders/Sprites/GUI/Customization.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_humanButton",

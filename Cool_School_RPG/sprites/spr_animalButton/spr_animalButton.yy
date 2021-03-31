@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"73c80d09-6fe6-4783-9cc5-9149c7fbec37","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "GUI",
-    "path": "folders/Sprites/GUI.yy",
+    "name": "Customization",
+    "path": "folders/Sprites/GUI/Customization.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_animalButton",

@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"579aa2c5-6dea-453b-b94b-d2f4597656a1","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "GUI",
-    "path": "folders/Sprites/GUI.yy",
+    "name": "Customization",
+    "path": "folders/Sprites/GUI/Customization.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_frame",

@@ -25,16 +25,16 @@ var anim_speed = 12;
 	draw_sprite_part(spr_hat, 0, floor(xFrame) * frame_size, yFrame * frame_size, frame_size, frame_size, x, y);
 
 	//sunglasses
-	//draw_sprite_part(spr_sunglasses, 0, floor(xFrame) * frame_size, yFrame * frame_size, frame_size, frame_size, x, y);
+	draw_sprite_part(spr_sunglasses, 0, floor(xFrame) * frame_size, yFrame * frame_size, frame_size, frame_size, x, y);
 
 	//shirt
-	//draw_sprite_part(spr_shirt, 0, floor(xFrame) * frame_size, yFrame * frame_size, frame_size, frame_size, x, y);
+	draw_sprite_part(spr_shirt, 0, floor(xFrame) * frame_size, yFrame * frame_size, frame_size, frame_size, x, y);
 
 	//pant
-	//draw_sprite_part(spr_pants, 0, floor(xFrame) * frame_size, yFrame * frame_size, frame_size, frame_size, x, y);
+	draw_sprite_part(spr_pants, 0, floor(xFrame) * frame_size, yFrame * frame_size, frame_size, frame_size, x, y);
 
 	//socks
-	//draw_sprite_part(spr_socks, 0, floor(xFrame) * frame_size, yFrame * frame_size, frame_size, frame_size, x, y);
+	draw_sprite_part(spr_socks, 0, floor(xFrame) * frame_size, yFrame * frame_size, frame_size, frame_size, x, y);
 
 
 
