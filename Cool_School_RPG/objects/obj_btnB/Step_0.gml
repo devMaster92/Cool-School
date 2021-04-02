@@ -12,10 +12,12 @@ if (_mouseX >= bbox_left and _mouseX <= bbox_right and
 		if global.btnA obj_btnA.visible = false;
 		if global.btnC obj_btnC.visible = false;
 		if global.btnD obj_btnD.visible = false;
+		obj_btnsBg.visible = false;
 		instance_destroy();
 		//visible = false;
 		global.btnB = false;
 		global.selection = "B";
+		global.selectionCount += 1;
 	}
 	
 }

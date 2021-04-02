@@ -3,3 +3,4 @@ global.btnA = true;
 global.btnB = true;
 global.btnC = true;
 global.btnD = true;
+global.selectionCount = 0;

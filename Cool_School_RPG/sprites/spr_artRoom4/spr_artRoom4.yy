@@ -188,7 +188,7 @@
     "spriteId": {"name":"spr_artRoom4","path":"sprites/spr_artRoom4/spr_artRoom4.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 7.0,
+    "playbackSpeed": 4.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,

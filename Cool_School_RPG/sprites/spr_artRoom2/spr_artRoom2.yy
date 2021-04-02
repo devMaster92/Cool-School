@@ -209,7 +209,7 @@
     "spriteId": {"name":"spr_artRoom2","path":"sprites/spr_artRoom2/spr_artRoom2.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 7.0,
+    "playbackSpeed": 4.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,

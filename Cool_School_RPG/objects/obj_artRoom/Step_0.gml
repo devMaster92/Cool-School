@@ -21,3 +21,4 @@ switch (global.selection) {
 		break;
 
 }
+
