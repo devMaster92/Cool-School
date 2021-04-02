@@ -1,5 +1,5 @@
 {
-  "bboxMode": 0,
+  "bboxMode": 2,
   "collisionKind": 1,
   "type": 0,
   "origin": 0,
@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 7,
-  "bbox_right": 56,
-  "bbox_top": 16,
-  "bbox_bottom": 61,
+  "bbox_left": 23,
+  "bbox_right": 40,
+  "bbox_top": 52,
+  "bbox_bottom": 58,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,9 +24,9 @@
   "gridX": 64,
   "gridY": 64,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"3cedd808-44d8-4979-b55d-e9dae4bcd1ea","path":"sprites/spr_character_mask/spr_character_mask.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3cedd808-44d8-4979-b55d-e9dae4bcd1ea","path":"sprites/spr_character_mask/spr_character_mask.yy",},"LayerId":{"name":"30004ff3-1417-4f04-a4bd-a60e8e9c8ebb","path":"sprites/spr_character_mask/spr_character_mask.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_character_mask","path":"sprites/spr_character_mask/spr_character_mask.yy",},"resourceVersion":"1.0","name":"3cedd808-44d8-4979-b55d-e9dae4bcd1ea","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"516f6664-b73b-43cd-b3cf-30962d0fce32","path":"sprites/spr_character_mask/spr_character_mask.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"516f6664-b73b-43cd-b3cf-30962d0fce32","path":"sprites/spr_character_mask/spr_character_mask.yy",},"LayerId":{"name":"7f8fdd9d-32b4-4da8-b4a4-56724719fa7a","path":"sprites/spr_character_mask/spr_character_mask.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_character_mask","path":"sprites/spr_character_mask/spr_character_mask.yy",},"resourceVersion":"1.0","name":"516f6664-b73b-43cd-b3cf-30962d0fce32","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_character_mask","path":"sprites/spr_character_mask/spr_character_mask.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"8a7af531-4b61-4d37-b41a-c6ad79025bff","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3cedd808-44d8-4979-b55d-e9dae4bcd1ea","path":"sprites/spr_character_mask/spr_character_mask.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"02cc2881-3ac7-4e9e-8254-544c52f098ac","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"516f6664-b73b-43cd-b3cf-30962d0fce32","path":"sprites/spr_character_mask/spr_character_mask.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"30004ff3-1417-4f04-a4bd-a60e8e9c8ebb","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7f8fdd9d-32b4-4da8-b4a4-56724719fa7a","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Characters",

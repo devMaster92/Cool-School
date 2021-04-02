@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_avatarMonkey",
-    "path": "sprites/spr_avatarMonkey/spr_avatarMonkey.yy",
+    "name": "spr_avatarMap",
+    "path": "sprites/spr_avatarMap/spr_avatarMap.yy",
   },
   "solid": false,
   "visible": true,

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_artRoom",
-    "path": "sprites/spr_artRoom/spr_artRoom.yy",
+    "name": "spr_artRoomSetup",
+    "path": "sprites/spr_artRoomSetup/spr_artRoomSetup.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,7 +20,11 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_artRoom","path":"objects/obj_artRoom/obj_artRoom.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_artRoom","path":"objects/obj_artRoom/obj_artRoom.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":7,"eventType":7,"collisionObjectId":null,"parent":{"name":"obj_artRoom","path":"objects/obj_artRoom/obj_artRoom.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

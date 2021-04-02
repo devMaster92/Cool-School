@@ -6,7 +6,7 @@
 /// Use horizontal speed and vertical speed if needed
 //h_spd = 0;
 //v_spd = 0;
-walk_spd = 3;
+walk_spd = 2.5;
 idle_spd = 0;
 
 /// global speed
@@ -37,6 +37,7 @@ if (global.character == "h") {
 	
 }
 else if (global.character == "a") {
+	
 	spr_body = spr_body_set[1];
 	spr_sunglasses = spr_black_glass_fox;
 	spr_hat = spr_fox_hat_set[global.hatIndex];
@@ -46,6 +47,7 @@ else if (global.character == "a") {
 
 }
 else if (global.character == "n") {
+	
 	spr_body = spr_body_set[2];
 	spr_sunglasses = spr_black_glass_monster;
 	spr_hat = spr_monster_hat_set[global.hatIndex];

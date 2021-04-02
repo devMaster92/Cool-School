@@ -1,6 +1,6 @@
 
 
-
+global.mapOpen = false;
 
 
 enum states 

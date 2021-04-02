@@ -3,6 +3,8 @@
 function scr_player_idle(){
 	scr_getInputs();
 	
+	
+	
 	show_debug_message(global.character);
 	
 	//if (global.character == "Human")

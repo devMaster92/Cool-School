@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 23,
-  "bbox_right": 171,
-  "bbox_top": 10,
-  "bbox_bottom": 165,
+  "bbox_left": 17,
+  "bbox_right": 182,
+  "bbox_top": 7,
+  "bbox_bottom": 172,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,9 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"87705200-b34e-4a7f-9fe6-ea888a1dc728","path":"sprites/spr_mapPhone/spr_mapPhone.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"87705200-b34e-4a7f-9fe6-ea888a1dc728","path":"sprites/spr_mapPhone/spr_mapPhone.yy",},"LayerId":{"name":"38385838-b230-464c-995c-9bd28491f86f","path":"sprites/spr_mapPhone/spr_mapPhone.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_mapPhone","path":"sprites/spr_mapPhone/spr_mapPhone.yy",},"resourceVersion":"1.0","name":"87705200-b34e-4a7f-9fe6-ea888a1dc728","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b31e15a8-da7c-40f1-abf2-d01b5a6c69e8","path":"sprites/spr_mapPhone/spr_mapPhone.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b31e15a8-da7c-40f1-abf2-d01b5a6c69e8","path":"sprites/spr_mapPhone/spr_mapPhone.yy",},"LayerId":{"name":"38385838-b230-464c-995c-9bd28491f86f","path":"sprites/spr_mapPhone/spr_mapPhone.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_mapPhone","path":"sprites/spr_mapPhone/spr_mapPhone.yy",},"resourceVersion":"1.0","name":"b31e15a8-da7c-40f1-abf2-d01b5a6c69e8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"be7b0bee-92ff-429c-bb2d-0a67866ab80b","path":"sprites/spr_mapPhone/spr_mapPhone.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"be7b0bee-92ff-429c-bb2d-0a67866ab80b","path":"sprites/spr_mapPhone/spr_mapPhone.yy",},"LayerId":{"name":"38385838-b230-464c-995c-9bd28491f86f","path":"sprites/spr_mapPhone/spr_mapPhone.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_mapPhone","path":"sprites/spr_mapPhone/spr_mapPhone.yy",},"resourceVersion":"1.0","name":"be7b0bee-92ff-429c-bb2d-0a67866ab80b","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_mapPhone","path":"sprites/spr_mapPhone/spr_mapPhone.yy",},
@@ -36,12 +39,13 @@
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 1.0,
+    "length": 2.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"3be5e8a3-e03d-488a-9293-3cb21a2bc029","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"87705200-b34e-4a7f-9fe6-ea888a1dc728","path":"sprites/spr_mapPhone/spr_mapPhone.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e260131f-ae9a-416b-9e70-71bc4af32137","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b31e15a8-da7c-40f1-abf2-d01b5a6c69e8","path":"sprites/spr_mapPhone/spr_mapPhone.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"3737e3d8-6f05-4a25-a200-8a2f4a574583","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"be7b0bee-92ff-429c-bb2d-0a67866ab80b","path":"sprites/spr_mapPhone/spr_mapPhone.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
