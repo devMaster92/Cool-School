@@ -169,6 +169,7 @@
     {"id":{"name":"obj_movingCartoon","path":"objects/obj_movingCartoon/obj_movingCartoon.yy",},"order":3,},
     {"id":{"name":"rm_choiceA","path":"rooms/rm_choiceA/rm_choiceA.yy",},"order":5,},
     {"id":{"name":"spr_animalButton","path":"sprites/spr_animalButton/spr_animalButton.yy",},"order":0,},
+    {"id":{"name":"obj_scoreText","path":"objects/obj_scoreText/obj_scoreText.yy",},"order":9,},
     {"id":{"name":"obj_final","path":"objects/obj_final/obj_final.yy",},"order":14,},
     {"id":{"name":"spr_metal_arms_male","path":"sprites/spr_metal_arms_male/spr_metal_arms_male.yy",},"order":0,},
     {"id":{"name":"obj_pants_next","path":"objects/obj_pants_next/obj_pants_next.yy",},"order":5,},
