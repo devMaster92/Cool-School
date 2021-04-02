@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"dc953529-fe42-4be3-b909-49ccc39099fe","path":"sprites/spr_black_glass_fox/spr_black_glass_fox.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"dc953529-fe42-4be3-b909-49ccc39099fe","path":"sprites/spr_black_glass_fox/spr_black_glass_fox.yy",},"LayerId":{"name":"42f4448f-8f99-4d82-94f7-f1a4b25a2b11","path":"sprites/spr_black_glass_fox/spr_black_glass_fox.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_black_glass_fox","path":"sprites/spr_black_glass_fox/spr_black_glass_fox.yy",},"resourceVersion":"1.0","name":"dc953529-fe42-4be3-b909-49ccc39099fe","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f21af84b-ee28-4373-909f-05535aab1871","path":"sprites/spr_black_glass_fox/spr_black_glass_fox.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f21af84b-ee28-4373-909f-05535aab1871","path":"sprites/spr_black_glass_fox/spr_black_glass_fox.yy",},"LayerId":{"name":"69341125-142d-4a04-8c48-ca203f90da98","path":"sprites/spr_black_glass_fox/spr_black_glass_fox.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_black_glass_fox","path":"sprites/spr_black_glass_fox/spr_black_glass_fox.yy",},"resourceVersion":"1.0","name":"f21af84b-ee28-4373-909f-05535aab1871","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_black_glass_fox","path":"sprites/spr_black_glass_fox/spr_black_glass_fox.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"b1c8a414-ddef-4370-89b4-203da17b6b59","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"dc953529-fe42-4be3-b909-49ccc39099fe","path":"sprites/spr_black_glass_fox/spr_black_glass_fox.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"71926cb8-7c71-4efe-b260-1a22560def8f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f21af84b-ee28-4373-909f-05535aab1871","path":"sprites/spr_black_glass_fox/spr_black_glass_fox.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"42f4448f-8f99-4d82-94f7-f1a4b25a2b11","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"69341125-142d-4a04-8c48-ca203f90da98","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sunglasses",

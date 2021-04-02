@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_player2",
-    "path": "sprites/spr_player2/spr_player2.yy",
+    "name": "spr_character_mask",
+    "path": "sprites/spr_character_mask/spr_character_mask.yy",
   },
   "solid": false,
   "visible": true,

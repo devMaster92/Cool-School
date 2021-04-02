@@ -7,9 +7,11 @@ global.hatIndex = obj_character.hat;
 
 if (!instance_exists(obj_mainPlayer)) {
 	
-	instance_create_depth(980 , 270, 200, obj_mainPlayer);
+	instance_create_depth(980, 270, 200, obj_mainPlayer);
+	
 	room_goto(rm0);
 	
+	obj_mainPlayer.visible = true;
 }
 
 

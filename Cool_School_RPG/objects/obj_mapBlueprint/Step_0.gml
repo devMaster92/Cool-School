@@ -8,7 +8,12 @@ if (_mouseX >= bbox_left and _mouseX <= bbox_right and
 	_mouseY >= bbox_top and _mouseY <= bbox_bottom) {
 			
 	if (mouse_check_button_pressed(mb_left)) {
-		// do something
+	
+		global.mapOpen = !global.mapOpen;
+		
+		if (global.mapOpen) obj_mapBpOverlay.visible = true;
+		else obj_mapBpOverlay.visible = false;
+		
 	}
 		
 }

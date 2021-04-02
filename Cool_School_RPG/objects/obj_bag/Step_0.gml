@@ -8,7 +8,7 @@ if (_mouseX >= bbox_left and _mouseX <= bbox_right and
 			
 	if (mouse_check_button_pressed(mb_left)) {
 		
-		//do something
+		room_goto(rm_inventory);
 		
 	}
 		

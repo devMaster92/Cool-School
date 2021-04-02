@@ -20,12 +20,14 @@ var anim_speed = 12;
 
 	//body
 	draw_sprite_part(spr_body, 0, floor(xFrame) * frame_size, yFrame * frame_size, frame_size, frame_size, x, y);
+	
+	//sunglasses
+	draw_sprite_part(spr_sunglasses, 0, floor(xFrame) * frame_size, yFrame * frame_size, frame_size, frame_size, x, y);
 
 	//hat
 	draw_sprite_part(spr_hat, 0, floor(xFrame) * frame_size, yFrame * frame_size, frame_size, frame_size, x, y);
 
-	//sunglasses
-	draw_sprite_part(spr_sunglasses, 0, floor(xFrame) * frame_size, yFrame * frame_size, frame_size, frame_size, x, y);
+	
 
 	//shirt
 	draw_sprite_part(spr_shirt, 0, floor(xFrame) * frame_size, yFrame * frame_size, frame_size, frame_size, x, y);
