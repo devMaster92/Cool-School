@@ -17,8 +17,8 @@ if (_mouseX >= bbox_left and _mouseX <= bbox_right and
 		}
 		audio_stop_sound(snd_achievement);
 		audio_resume_sound(snd_bg);
+		global.coins += 20;	
 		
-		global.coins += 20;
 	}
 		
 }
