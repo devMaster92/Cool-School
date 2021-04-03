@@ -12,9 +12,15 @@ function scr_artRoomAnimEnd(){
 	
 			obj_exitArt.visible = true;
 			
+			if(audio_is_playing(snd_achievement) == false and global.achievement == true) {
+			audio_play_sound(snd_achievement, 10, false);
+			
+			global.achievement = false;
 	
-		}
-		audio_play_sound(snd_achievement, 2, false);
+			}
+		
+}
+		
 	
 	}
 	if (sprite_index == spr_artRoomSetup) {

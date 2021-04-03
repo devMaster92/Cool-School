@@ -1,0 +1,1 @@
+global.assetSelect = 0;

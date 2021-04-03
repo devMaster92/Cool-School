@@ -28,12 +28,14 @@ function scr_collision(){
 	y += moveY;
 	
 	
-	var inst = instance_place(x, y, obj_transition);
+	//var inst = instance_place(x, y, obj_transitionArt);
 
-	if (inst != noone) {
+	//if (inst != noone) {
 		
-		room_goto(inst.targetRoom);
-	}
+		//room_goto(inst.targetRoom);
+		
+		
+	//}
 	
 	
 }

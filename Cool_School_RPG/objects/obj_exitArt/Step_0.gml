@@ -12,11 +12,12 @@ if (_mouseX >= bbox_left and _mouseX <= bbox_right and
 		if (!instance_exists(obj_mainPlayer)) {
 			instance_create_depth(1468, 495, 200, obj_mainPlayer);
 			instance_destroy(obj_artRoom0);
-			instance_destroy(obj_transition);
+			instance_destroy(obj_transitionArt);
 			
 		}
 		audio_stop_sound(snd_achievement);
 		audio_resume_sound(snd_bg);
+		
 		global.coins += 20;
 	}
 		

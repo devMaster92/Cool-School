@@ -17,8 +17,10 @@ if (_mouseX >= bbox_left and _mouseX <= bbox_right and
 		global.btnA = false;
 		global.selection = "A";
 		global.selectionCount += 1;
-		audio_play_sound(snd_share, 10, false);
+		global.achievement = true;
 		scr_artRoom();
+		audio_play_sound(snd_share, 10, false);
+		
 		
 	}
 	

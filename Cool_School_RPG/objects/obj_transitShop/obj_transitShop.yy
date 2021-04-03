@@ -22,7 +22,7 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_transitShop","path":"objects/obj_transitShop/obj_transitShop.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_transitShop","path":"objects/obj_transitShop/obj_transitShop.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_mainPlayer","path":"objects/obj_mainPlayer/obj_mainPlayer.yy",},"parent":{"name":"obj_transitShop","path":"objects/obj_transitShop/obj_transitShop.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
