@@ -17,6 +17,8 @@ if (_mouseX >= bbox_left and _mouseX <= bbox_right and
 		global.btnD = false;
 		global.selection = "D";
 		global.selectionCount += 1;
+		audio_play_sound(snd_tell, 10, false);
+		scr_artRoom();
 	}
 	
 }

@@ -9,3 +9,7 @@ switch (state)
 	case states.move: scr_player_move(); break;
 	
 }
+if (audio_is_playing(snd_narration || snd_achievement || snd_phoneRing))
+{
+    audio_sound_gain(snd_bg, .2, 0);
+}

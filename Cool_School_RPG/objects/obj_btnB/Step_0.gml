@@ -18,6 +18,8 @@ if (_mouseX >= bbox_left and _mouseX <= bbox_right and
 		global.btnB = false;
 		global.selection = "B";
 		global.selectionCount += 1;
+		audio_play_sound(snd_knock, 10, false);
+		scr_artRoom();
 	}
 	
 }

@@ -27,7 +27,6 @@ spr_monster_hat_set = [spr_green_hat_monster, spr_orange_hat_monster];
 
 /// default character
 if (global.character == "h") {
-	
 	spr_body = spr_body_set[0];
 	spr_sunglasses = spr_black_glass_monkey;
 	spr_hat =  spr_monkey_hat_set[global.hatIndex];

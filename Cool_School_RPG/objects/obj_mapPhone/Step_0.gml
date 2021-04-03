@@ -8,7 +8,24 @@ if (_mouseX >= bbox_left and _mouseX <= bbox_right and
 	_mouseY >= bbox_top and _mouseY <= bbox_bottom) {
 			
 	if (mouse_check_button_pressed(mb_left)) {
-		// do something
+		global.phoneOpen = !global.phoneOpen;
+		
+		if (global.phoneOpen) {
+			obj_phoneScreen.visible = true;
+			obj_yes.visible = true;
+			obj_no.visible = true;
+			image_speed = 0;
+			image_index = 0;
+			
+		}
+		else { 
+			obj_phoneScreen.visible = false; 
+			obj_yes.visible = false;
+			obj_no.visible = false;
+			image_speed = 0;
+			image_index = 0;
+		
+		}
 	}
 		
 }

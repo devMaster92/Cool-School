@@ -4,7 +4,7 @@
 
 var anim_length = 9;
 var frame_size = 64;
-var anim_speed = 12;
+var anim_speed = 8;
 
 
 

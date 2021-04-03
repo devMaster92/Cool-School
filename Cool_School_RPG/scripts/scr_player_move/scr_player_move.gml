@@ -10,13 +10,17 @@ function scr_player_move(){
 	if (left_key or right_key) {
 		spd = walk_spd;
 		moveX = (right_key - left_key) * spd;
+		
 	
 	}
 	
 	if (down_key or up_key) {
 		spd = walk_spd;
 		moveY = (down_key - up_key) * spd;
+		
 	}
+	
+	
 	
 	scr_collision();
 }

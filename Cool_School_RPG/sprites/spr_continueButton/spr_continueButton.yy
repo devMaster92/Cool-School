@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 10,
-  "bbox_right": 426,
-  "bbox_top": 19,
-  "bbox_bottom": 128,
+  "bbox_left": 18,
+  "bbox_right": 300,
+  "bbox_top": 14,
+  "bbox_bottom": 88,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 436,
-  "height": 153,
+  "width": 319,
+  "height": 102,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"6ef3c4e5-c247-4af5-8b1e-d4bedb0d5543","path":"sprites/spr_continueButton/spr_continueButton.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6ef3c4e5-c247-4af5-8b1e-d4bedb0d5543","path":"sprites/spr_continueButton/spr_continueButton.yy",},"LayerId":{"name":"181d236c-dbcf-4be5-a646-4c581203ee67","path":"sprites/spr_continueButton/spr_continueButton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_continueButton","path":"sprites/spr_continueButton/spr_continueButton.yy",},"resourceVersion":"1.0","name":"6ef3c4e5-c247-4af5-8b1e-d4bedb0d5543","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e383f7ef-0329-4418-a460-7cc31df2c0b8","path":"sprites/spr_continueButton/spr_continueButton.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e383f7ef-0329-4418-a460-7cc31df2c0b8","path":"sprites/spr_continueButton/spr_continueButton.yy",},"LayerId":{"name":"b2fa489a-4bb4-4b87-85a9-0e50fbdc1203","path":"sprites/spr_continueButton/spr_continueButton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_continueButton","path":"sprites/spr_continueButton/spr_continueButton.yy",},"resourceVersion":"1.0","name":"e383f7ef-0329-4418-a460-7cc31df2c0b8","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_continueButton","path":"sprites/spr_continueButton/spr_continueButton.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"ee5aaf6d-1618-44de-99dd-4ae59f7397f2","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6ef3c4e5-c247-4af5-8b1e-d4bedb0d5543","path":"sprites/spr_continueButton/spr_continueButton.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f3134262-d8a0-4b15-b609-c35214bd2a29","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e383f7ef-0329-4418-a460-7cc31df2c0b8","path":"sprites/spr_continueButton/spr_continueButton.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"181d236c-dbcf-4be5-a646-4c581203ee67","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b2fa489a-4bb4-4b87-85a9-0e50fbdc1203","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Tile Sprites",
