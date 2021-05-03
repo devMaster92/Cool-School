@@ -1,4 +1,4 @@
-/// @description Insert description here
+ /// @description Insert description here
 // You can write your code in this editor
 
 var _mouseX = device_mouse_x_to_gui(0);
@@ -10,7 +10,8 @@ if (_mouseX >= bbox_left and _mouseX <= bbox_right and
 	if (mouse_check_button_pressed(mb_left)) {	
 		room_goto(rm0);
 		if (!instance_exists(obj_mainPlayer))
-		instance_create_depth(435, 530, 200, obj_mainPlayer);
+		instance_create_depth(300, 508, 200, obj_mainPlayer);
 	}	
 }
 
+                      
