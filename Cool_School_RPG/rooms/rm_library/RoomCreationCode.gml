@@ -1,1 +1,0 @@
-instance_create_depth(250 , 220, 200, obj_mainPlayer);
