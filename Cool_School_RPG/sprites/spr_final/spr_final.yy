@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b7fe9c7d-49d9-4af4-8c44-3524b6169b07","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Tile Sprites",
-    "path": "folders/Sprites/Tile Sprites.yy",
+    "name": "Conflict_Scenarios",
+    "path": "folders/Sprites/Conflict_Scenarios.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_final",
