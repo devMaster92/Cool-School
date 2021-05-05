@@ -1,7 +1,7 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function scr_collision(){
-		if (place_meeting(x + moveX, y, obj_collision)){
+	if (place_meeting(x + moveX, y, obj_collision)){
 	
 		while (!place_meeting(x + sign(moveX), y, obj_collision)){
 		
@@ -26,6 +26,8 @@ function scr_collision(){
 	}
 
 	y += moveY;
+	
+	
 	
 	
 	//var inst = instance_place(x, y, obj_transitionArt);

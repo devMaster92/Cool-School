@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 39,
-  "bbox_right": 1920,
-  "bbox_top": 5,
-  "bbox_bottom": 1069,
+  "bbox_left": 160,
+  "bbox_right": 8000,
+  "bbox_top": 23,
+  "bbox_bottom": 4454,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 1921,
-  "height": 1080,
+  "width": 8001,
+  "height": 4500,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"7e543477-db2c-4352-8a4c-ad3ed46825e3","path":"sprites/Object_layer_01100/Object_layer_01100.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7e543477-db2c-4352-8a4c-ad3ed46825e3","path":"sprites/Object_layer_01100/Object_layer_01100.yy",},"LayerId":{"name":"6490fed4-4a93-483a-8724-40011a13a527","path":"sprites/Object_layer_01100/Object_layer_01100.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Object_layer_01100","path":"sprites/Object_layer_01100/Object_layer_01100.yy",},"resourceVersion":"1.0","name":"7e543477-db2c-4352-8a4c-ad3ed46825e3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"91f8c361-d3ca-4282-9ec1-f54a3e42ab41","path":"sprites/Object_layer_01100/Object_layer_01100.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"91f8c361-d3ca-4282-9ec1-f54a3e42ab41","path":"sprites/Object_layer_01100/Object_layer_01100.yy",},"LayerId":{"name":"bff0664f-5dc6-40fd-853c-5b302ee411cf","path":"sprites/Object_layer_01100/Object_layer_01100.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Object_layer_01100","path":"sprites/Object_layer_01100/Object_layer_01100.yy",},"resourceVersion":"1.0","name":"91f8c361-d3ca-4282-9ec1-f54a3e42ab41","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"Object_layer_01100","path":"sprites/Object_layer_01100/Object_layer_01100.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"a0e9bed9-9ff7-41aa-b817-a685997cffba","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7e543477-db2c-4352-8a4c-ad3ed46825e3","path":"sprites/Object_layer_01100/Object_layer_01100.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4cd7c95a-1693-4dc2-844b-afe3410f4db2","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"91f8c361-d3ca-4282-9ec1-f54a3e42ab41","path":"sprites/Object_layer_01100/Object_layer_01100.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6490fed4-4a93-483a-8724-40011a13a527","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"bff0664f-5dc6-40fd-853c-5b302ee411cf","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Map",
