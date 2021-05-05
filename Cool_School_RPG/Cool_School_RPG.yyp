@@ -45,9 +45,11 @@
     {"id":{"name":"spr_exitArt","path":"sprites/spr_exitArt/spr_exitArt.yy",},"order":12,},
     {"id":{"name":"spr_transition","path":"sprites/spr_transition/spr_transition.yy",},"order":6,},
     {"id":{"name":"obj_inventory2","path":"objects/obj_inventory2/obj_inventory2.yy",},"order":1,},
+
     {"id":{"name":"spr_play_art","path":"sprites/spr_play_art/spr_play_art.yy",},"order":8,},
     {"id":{"name":"spr_blue_shirt_fox","path":"sprites/spr_blue_shirt_fox/spr_blue_shirt_fox.yy",},"order":4,},
     {"id":{"name":"spr_gym_art","path":"sprites/spr_gym_art/spr_gym_art.yy",},"order":9,},
+
     {"id":{"name":"obj_bearBtn0","path":"objects/obj_bearBtn0/obj_bearBtn0.yy",},"order":1,},
     {"id":{"name":"rm_art","path":"rooms/rm_art/rm_art.yy",},"order":12,},
     {"id":{"name":"spr_shopFg1","path":"sprites/spr_shopFg1/spr_shopFg1.yy",},"order":1,},
@@ -108,6 +110,7 @@
     {"id":{"name":"spr_pg_art","path":"sprites/spr_pg_art/spr_pg_art.yy",},"order":0,},
     {"id":{"name":"spr_metal_shoes_male","path":"sprites/spr_metal_shoes_male/spr_metal_shoes_male.yy",},"order":0,},
     {"id":{"name":"spr_socc_art","path":"sprites/spr_socc_art/spr_socc_art.yy",},"order":10,},
+
     {"id":{"name":"spr_hat_h_0","path":"sprites/spr_hat_h_0/spr_hat_h_0.yy",},"order":7,},
     {"id":{"name":"spr_collide","path":"sprites/spr_collide/spr_collide.yy",},"order":0,},
     {"id":{"name":"obj_pgbtnsBg","path":"objects/obj_pgbtnsBg/obj_pgbtnsBg.yy",},"order":5,},
@@ -434,6 +437,7 @@
     {"folderPath":"folders/Objects/NPC_Interactions/Bear.yy","order":1,"resourceVersion":"1.0","name":"Bear","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/GUI/Map/Overlay/Paths.yy","order":5,"resourceVersion":"1.0","name":"Paths","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/GUI/Map/Overlay/Paths.yy","order":6,"resourceVersion":"1.0","name":"Paths","tags":[],"resourceType":"GMFolder",},
+
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

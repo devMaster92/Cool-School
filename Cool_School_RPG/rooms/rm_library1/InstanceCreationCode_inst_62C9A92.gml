@@ -1,4 +1,0 @@
-targetRoom = rm0;
-
-
-
