@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_storeExit",
-    "path": "sprites/spr_storeExit/spr_storeExit.yy",
+    "name": "spr_seeSaw",
+    "path": "sprites/spr_seeSaw/spr_seeSaw.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,7 +21,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_exitShop","path":"objects/obj_exitShop/obj_exitShop.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_seeSaw","path":"objects/obj_seeSaw/obj_seeSaw.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_seeSaw","path":"objects/obj_seeSaw/obj_seeSaw.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,7 +31,7 @@
     "path": "folders/Objects/Shop.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_exitShop",
+  "name": "obj_seeSaw",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -5,6 +5,7 @@ function scr_init(){
 	global.keyReceived = false;
 	
 	global.coins = 0;
+	global.seeSaw = false;
 	
 	
 }
