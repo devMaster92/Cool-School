@@ -2,8 +2,8 @@
   "resources": [
     {"id":{"name":"snd_ruin","path":"sounds/snd_ruin/snd_ruin.yy",},"order":6,},
     {"id":{"name":"obj_backToLibrary","path":"objects/obj_backToLibrary/obj_backToLibrary.yy",},"order":13,},
+    {"id":{"name":"obj_path","path":"objects/obj_path/obj_path.yy",},"order":0,},
     {"id":{"name":"spr_golden_hat_male","path":"sprites/spr_golden_hat_male/spr_golden_hat_male.yy",},"order":0,},
-    {"id":{"name":"obj_path","path":"objects/obj_path/obj_path.yy",},"order":2,},
     {"id":{"name":"spr_lblue_pants_fox","path":"sprites/spr_lblue_pants_fox/spr_lblue_pants_fox.yy",},"order":13,},
     {"id":{"name":"rm_shop","path":"rooms/rm_shop/rm_shop.yy",},"order":14,},
     {"id":{"name":"spr_shirt_n_0","path":"sprites/spr_shirt_n_0/spr_shirt_n_0.yy",},"order":1,},
@@ -49,11 +49,9 @@
     {"id":{"name":"spr_exitArt","path":"sprites/spr_exitArt/spr_exitArt.yy",},"order":12,},
     {"id":{"name":"spr_transition","path":"sprites/spr_transition/spr_transition.yy",},"order":6,},
     {"id":{"name":"obj_inventory2","path":"objects/obj_inventory2/obj_inventory2.yy",},"order":1,},
-
     {"id":{"name":"spr_play_art","path":"sprites/spr_play_art/spr_play_art.yy",},"order":8,},
     {"id":{"name":"spr_blue_shirt_fox","path":"sprites/spr_blue_shirt_fox/spr_blue_shirt_fox.yy",},"order":4,},
     {"id":{"name":"spr_gym_art","path":"sprites/spr_gym_art/spr_gym_art.yy",},"order":9,},
-
     {"id":{"name":"obj_bearBtn0","path":"objects/obj_bearBtn0/obj_bearBtn0.yy",},"order":1,},
     {"id":{"name":"obj_seeSaw","path":"objects/obj_seeSaw/obj_seeSaw.yy",},"order":12,},
     {"id":{"name":"rm_pg","path":"rooms/rm_pg/rm_pg.yy",},"order":12,},
@@ -93,7 +91,6 @@
     {"id":{"name":"spr_sunglasses_a_0","path":"sprites/spr_sunglasses_a_0/spr_sunglasses_a_0.yy",},"order":1,},
     {"id":{"name":"spr_bookMain","path":"sprites/spr_bookMain/spr_bookMain.yy",},"order":3,},
     {"id":{"name":"spr_inventory3","path":"sprites/spr_inventory3/spr_inventory3.yy",},"order":2,},
-    {"id":{"name":"obj_path","path":"objects/obj_path/obj_path.yy",},"order":1,},
     {"id":{"name":"spr_pants_h_1","path":"sprites/spr_pants_h_1/spr_pants_h_1.yy",},"order":2,},
     {"id":{"name":"spr_hat_n_1","path":"sprites/spr_hat_n_1/spr_hat_n_1.yy",},"order":2,},
     {"id":{"name":"rm_bookInteraction","path":"rooms/rm_bookInteraction/rm_bookInteraction.yy",},"order":18,},
@@ -119,7 +116,6 @@
     {"id":{"name":"spr_pg_art","path":"sprites/spr_pg_art/spr_pg_art.yy",},"order":0,},
     {"id":{"name":"spr_metal_shoes_male","path":"sprites/spr_metal_shoes_male/spr_metal_shoes_male.yy",},"order":0,},
     {"id":{"name":"spr_socc_art","path":"sprites/spr_socc_art/spr_socc_art.yy",},"order":10,},
-
     {"id":{"name":"spr_hat_h_0","path":"sprites/spr_hat_h_0/spr_hat_h_0.yy",},"order":7,},
     {"id":{"name":"spr_collide","path":"sprites/spr_collide/spr_collide.yy",},"order":0,},
     {"id":{"name":"obj_pgbtnsBg","path":"objects/obj_pgbtnsBg/obj_pgbtnsBg.yy",},"order":5,},
@@ -472,7 +468,6 @@
     {"folderPath":"folders/Objects/NPC_Interactions/Bear.yy","order":1,"resourceVersion":"1.0","name":"Bear","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/GUI/Map/Overlay/Paths.yy","order":5,"resourceVersion":"1.0","name":"Paths","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/GUI/Map/Overlay/Paths.yy","order":6,"resourceVersion":"1.0","name":"Paths","tags":[],"resourceType":"GMFolder",},
-
     {"folderPath":"folders/Sprites/Map_animations.yy","order":14,"resourceVersion":"1.0","name":"Map_animations","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Map_Animations.yy","order":11,"resourceVersion":"1.0","name":"Map_Animations","tags":[],"resourceType":"GMFolder",},
   ],
