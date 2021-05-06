@@ -7,9 +7,8 @@ if (_mouseX >= bbox_left and _mouseX <= bbox_right and
 	_mouseY >= bbox_top and _mouseY <= bbox_bottom) {
 			
 	if (mouse_check_button_pressed(mb_left)) {
-		if visible
-		visible =false;
 		obj_roomLocked.visible = false;
+		visible = false;
 	}
 		
 }

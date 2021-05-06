@@ -10,7 +10,7 @@ if (_mouseX >= bbox_left and _mouseX <= bbox_right and
 		
 		room_goto(rm0);
 		if (!instance_exists(obj_mainPlayer)) {
-			instance_create_depth(1468, 495, 200, obj_mainPlayer);
+			instance_create_depth(340, 480, 0, obj_mainPlayer);
 			instance_destroy(obj_artRoom0);
 			instance_destroy(obj_transitionArt);
 			
