@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_path",
-    "path": "sprites/spr_path/spr_path.yy",
+    "name": "spr_aud_art",
+    "path": "sprites/spr_aud_art/spr_aud_art.yy",
   },
   "solid": false,
   "visible": true,
@@ -26,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Overlay",
-    "path": "folders/Objects/GUI/Map/Overlay.yy",
+    "name": "Paths",
+    "path": "folders/Objects/GUI/Map/Overlay/Paths.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_path",

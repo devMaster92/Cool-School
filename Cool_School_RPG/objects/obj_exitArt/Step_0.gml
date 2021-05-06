@@ -7,7 +7,6 @@ if (_mouseX >= bbox_left and _mouseX <= bbox_right and
 	_mouseY >= bbox_top and _mouseY <= bbox_bottom) {
 			
 	if (mouse_check_button_pressed(mb_left)) {
-		
 		room_goto(rm0);
 		if (!instance_exists(obj_mainPlayer)) {
 			instance_create_depth(340, 480, 0, obj_mainPlayer);
