@@ -4,8 +4,6 @@
 if (global.keyReceived) {
 	
 	visible = false;
-	obj_roomOpened.visible = true;
-	alarm[1] = 5;
 	
 }
 else {

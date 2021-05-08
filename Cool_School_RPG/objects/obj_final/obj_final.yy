@@ -29,8 +29,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Misc",
-    "path": "folders/Objects/Misc.yy",
+    "name": "Art_Room",
+    "path": "folders/Objects/Conflict_Scenarios/Art_Room.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_final",

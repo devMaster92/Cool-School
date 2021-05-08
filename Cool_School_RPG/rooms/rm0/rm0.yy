@@ -55,6 +55,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_transitionArt","path":"objects/obj_transitionArt/obj_transitionArt.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.21875,"scaleY":1.09375,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":392.0,"y":445.0,"resourceVersion":"1.0","name":"inst_5FA61A4D","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_transitShop","path":"objects/obj_transitShop/obj_transitShop.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.25,"scaleY":1.1875,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":295.0,"y":510.0,"resourceVersion":"1.0","name":"inst_6B2830FC","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_transitionArt","path":"objects/obj_transitionArt/obj_transitionArt.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.79687488,"scaleY":0.25,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":395.5,"y":560.0,"resourceVersion":"1.0","name":"inst_5A88FF77","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_transitionPg","path":"objects/obj_transitionPg/obj_transitionPg.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.25,"scaleY":0.84375,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":933.0,"y":216.0,"resourceVersion":"1.0","name":"inst_192D3DA3","tags":[],"resourceType":"GMRInstance",},
       ],"visible":false,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Transitions","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":19.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1024.0,"y":960.0,"resourceVersion":"1.0","name":"inst_229F1B58","tags":[],"resourceType":"GMRInstance",},
@@ -295,6 +296,7 @@
     {"name":"inst_188CA0F2","path":"rooms/rm0/rm0.yy",},
     {"name":"inst_763FBD65","path":"rooms/rm0/rm0.yy",},
     {"name":"inst_1659E38D","path":"rooms/rm0/rm0.yy",},
+    {"name":"inst_192D3DA3","path":"rooms/rm0/rm0.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

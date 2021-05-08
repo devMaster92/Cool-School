@@ -13,8 +13,8 @@
   "soundFile": "snd_ruin.wav",
   "duration": 20.9247284,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Art",
+    "path": "folders/Sounds/Art.yy",
   },
   "resourceVersion": "1.0",
   "name": "snd_ruin",

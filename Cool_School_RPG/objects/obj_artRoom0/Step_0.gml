@@ -3,7 +3,9 @@
 
 if (place_meeting(x, y, obj_mainPlayer)) {
 	
-	instance_destroy(obj_mainPlayer);
-	room_goto(rm_artRoomConflict);
+	if (!audio_is_playing(snd_intro)) {
+		instance_destroy(obj_mainPlayer);
+		room_goto(rm_artRoomConflict);
+	}
 
 }
