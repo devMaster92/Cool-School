@@ -1,4 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-room_goto(rm_narration);
+if (!global.onboarding) {
+	
+	room_goto(rm_onboarding);
+	global.onboarding = true;
+	
+}

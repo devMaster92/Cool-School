@@ -4,5 +4,8 @@
 image_index= 1;
 
 
-
-audio_play_sound(snd_phoneRing, 2, false);
+if (!global.hasSolvedArt) and (global.hasPlayed == 0) {	
+	audio_play_sound(snd_phoneRing, 2, false);
+	audio_sound_gain(snd_phoneRing, .1, 0);
+	global.hasPlayed++;
+}

@@ -9,7 +9,7 @@ global.pantIndex = obj_character.pants;
 global.sockIndex = obj_character.socks;
 
 
-if (!instance_exists(obj_mainPlayer)) {
+if (!instance_exists(obj_mainPlayer)){
 	
 	instance_create_depth(980, 270, 0, obj_mainPlayer);
 	
@@ -17,5 +17,6 @@ if (!instance_exists(obj_mainPlayer)) {
 	
 	obj_mainPlayer.visible = true;
 }
+
 
 
