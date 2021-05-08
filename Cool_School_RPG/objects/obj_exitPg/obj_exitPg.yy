@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_exitArt",
-    "path": "sprites/spr_exitArt/spr_exitArt.yy",
+    "name": "spr_exitPg",
+    "path": "sprites/spr_exitPg/spr_exitPg.yy",
   },
   "solid": false,
   "visible": true,

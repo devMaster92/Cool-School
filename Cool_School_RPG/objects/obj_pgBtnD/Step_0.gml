@@ -8,17 +8,17 @@ if (_mouseX >= bbox_left and _mouseX <= bbox_right and
 			
 	if (mouse_check_button_pressed(mb_left)) {
 	
-		if global.btnA obj_btnA.visible = false;
-		if global.btnB obj_btnB.visible = false;
-		if global.btnC obj_btnC.visible = false;
-		obj_btnsBg.visible = false;
+		if global.pgBtnA obj_pgBtnA.visible = false;
+		if global.pgBtnB obj_pgBtnB.visible = false;
+		if global.pgBtnC obj_pgBtnC.visible = false;
+		obj_pgbtnsBg.visible = false;
 		instance_destroy();
 		//visible = false;
-		global.btnD = false;
-		global.selection = "D";
-		global.selectionCount += 1;
-		scr_artRoom();
-		audio_play_sound(snd_tell, 10, false);
+		global.pgBtnD = false;
+		global.pgSelection = "D";
+		global.pgSelectionCount += 1;
+		scr_pgRoom();
+		audio_play_sound(snd_donothing4, 10, false);
 		
 	}
 	
