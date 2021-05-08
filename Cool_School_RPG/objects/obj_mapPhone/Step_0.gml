@@ -17,6 +17,9 @@ if (_mouseX >= bbox_left and _mouseX <= bbox_right and
 			image_speed = 0;
 			image_index = 0;
 			
+			if (!audio_is_playing(snd_missionGuide))
+			audio_play_sound(snd_missionGuide, 2, false);
+			
 		}
 		else { 
 			obj_phoneScreen.visible = false; 
@@ -24,6 +27,8 @@ if (_mouseX >= bbox_left and _mouseX <= bbox_right and
 			obj_no.visible = false;
 			image_speed = 0;
 			image_index = 0;
+			if (audio_is_playing(snd_missionGuide))
+			audio_stop_sound(snd_missionGuide);
 		
 		}
 	}

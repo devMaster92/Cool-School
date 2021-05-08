@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 18,
-  "bbox_right": 562,
-  "bbox_top": 9,
-  "bbox_bottom": 303,
+  "bbox_left": 15,
+  "bbox_right": 559,
+  "bbox_top": 26,
+  "bbox_bottom": 300,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"51c3c95e-3cd3-4796-b9a0-8c3e9d7a6e29","path":"sprites/spr_blue_shirt_fox/spr_blue_shirt_fox.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"51c3c95e-3cd3-4796-b9a0-8c3e9d7a6e29","path":"sprites/spr_blue_shirt_fox/spr_blue_shirt_fox.yy",},"LayerId":{"name":"28cd05f3-3dee-475e-b4e2-57292a7d8332","path":"sprites/spr_blue_shirt_fox/spr_blue_shirt_fox.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_blue_shirt_fox","path":"sprites/spr_blue_shirt_fox/spr_blue_shirt_fox.yy",},"resourceVersion":"1.0","name":"51c3c95e-3cd3-4796-b9a0-8c3e9d7a6e29","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1fbd9dc4-cee7-4fdf-8a1c-8852dab19732","path":"sprites/spr_blue_shirt_fox/spr_blue_shirt_fox.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1fbd9dc4-cee7-4fdf-8a1c-8852dab19732","path":"sprites/spr_blue_shirt_fox/spr_blue_shirt_fox.yy",},"LayerId":{"name":"bf093ee0-2ede-422e-aac0-5c0b43490069","path":"sprites/spr_blue_shirt_fox/spr_blue_shirt_fox.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_blue_shirt_fox","path":"sprites/spr_blue_shirt_fox/spr_blue_shirt_fox.yy",},"resourceVersion":"1.0","name":"1fbd9dc4-cee7-4fdf-8a1c-8852dab19732","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_blue_shirt_fox","path":"sprites/spr_blue_shirt_fox/spr_blue_shirt_fox.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"dc9cb86c-380f-40b1-8234-6acb2d1e135a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"51c3c95e-3cd3-4796-b9a0-8c3e9d7a6e29","path":"sprites/spr_blue_shirt_fox/spr_blue_shirt_fox.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7af4524e-d4bd-4a67-bd28-03068bcf448e","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1fbd9dc4-cee7-4fdf-8a1c-8852dab19732","path":"sprites/spr_blue_shirt_fox/spr_blue_shirt_fox.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"28cd05f3-3dee-475e-b4e2-57292a7d8332","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"bf093ee0-2ede-422e-aac0-5c0b43490069","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Shirts",

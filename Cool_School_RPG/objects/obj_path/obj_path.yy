@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_pg_art",
-    "path": "sprites/spr_pg_art/spr_pg_art.yy",
+    "name": "spr_aud_art",
+    "path": "sprites/spr_aud_art/spr_aud_art.yy",
   },
   "solid": false,
   "visible": true,

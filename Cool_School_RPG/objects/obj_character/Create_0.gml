@@ -11,8 +11,8 @@ pants = 0;
 socks = 0;
 
 maxHat = 1;
-maxSunglasses = 0;
-maxShirt = 0;
-maxPants = 0;
-maxSocks = 0;
+maxSunglasses = 1;
+maxShirt = 1;
+maxPants = 1;
+maxSocks = 1;
 

@@ -9,7 +9,9 @@ if (_mouseX >= bbox_left and _mouseX <= bbox_right and
 			
 	if (mouse_check_button_pressed(mb_left)) {
 		
-		room_goto(rm0);	
+		room_goto(rm0);
+		if (!instance_exists(obj_mainPlayer))
+			instance_create_depth(805, 842, 0, obj_mainPlayer);
 	}
 		
 }

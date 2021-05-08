@@ -3,15 +3,20 @@
 
 global.character = obj_character.charType;
 global.hatIndex = obj_character.hat;
+global.glassIndex = obj_character.sunglasses;
+global.shirtIndex = obj_character.shirt;
+global.pantIndex = obj_character.pants;
+global.sockIndex = obj_character.socks;
 
 
-if (!instance_exists(obj_mainPlayer)) {
+if (!instance_exists(obj_mainPlayer)){
 	
-	instance_create_depth(980, 270, 200, obj_mainPlayer);
+	instance_create_depth(980, 270, 0, obj_mainPlayer);
 	
 	room_goto(rm0);
 	
 	obj_mainPlayer.visible = true;
 }
+
 
 
