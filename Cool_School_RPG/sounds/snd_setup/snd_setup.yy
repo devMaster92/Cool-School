@@ -11,10 +11,10 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_setup.wav",
-  "duration": 14.2838211,
+  "duration": 10.2057,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Art",
+    "path": "folders/Sounds/Art.yy",
   },
   "resourceVersion": "1.0",
   "name": "snd_setup",

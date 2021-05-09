@@ -6,7 +6,9 @@ if (global.keyReceived) {
 	visible = false;
 	
 }
-else {obj_roomLocked.visible = true;
-	obj_mCtn.visible = true;}
-
-alarm[0] = 5;
+else {
+	obj_roomLocked.visible = true;
+	obj_mCtn.visible = true;
+	alarm[0] = 5;
+	
+}

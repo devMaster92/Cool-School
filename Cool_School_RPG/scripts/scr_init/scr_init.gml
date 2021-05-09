@@ -6,6 +6,9 @@ function scr_init(){
 	
 	global.coins = 0;
 	global.seeSaw = false;
-	
+	global.hasSolvedArt = false;
+	global.bgSound = false;
+	global.hasPlayed = 0;
+	global.onboarding = false;
 	
 }

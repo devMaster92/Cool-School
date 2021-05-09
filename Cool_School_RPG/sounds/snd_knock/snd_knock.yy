@@ -13,8 +13,8 @@
   "soundFile": "snd_knock.wav",
   "duration": 26.7529373,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Art",
+    "path": "folders/Sounds/Art.yy",
   },
   "resourceVersion": "1.0",
   "name": "snd_knock",

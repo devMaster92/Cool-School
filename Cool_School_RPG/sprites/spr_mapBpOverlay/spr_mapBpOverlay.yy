@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 45,
-  "bbox_right": 1321,
-  "bbox_top": 36,
-  "bbox_bottom": 935,
+  "bbox_left": 0,
+  "bbox_right": 963,
+  "bbox_top": 0,
+  "bbox_bottom": 678,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 1366,
-  "height": 971,
+  "width": 964,
+  "height": 679,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"927b5e72-3a48-4291-b797-6254a29d4743","path":"sprites/spr_mapBpOverlay/spr_mapBpOverlay.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"927b5e72-3a48-4291-b797-6254a29d4743","path":"sprites/spr_mapBpOverlay/spr_mapBpOverlay.yy",},"LayerId":{"name":"9dc93337-4849-4a4d-905b-f931677b307f","path":"sprites/spr_mapBpOverlay/spr_mapBpOverlay.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_mapBpOverlay","path":"sprites/spr_mapBpOverlay/spr_mapBpOverlay.yy",},"resourceVersion":"1.0","name":"927b5e72-3a48-4291-b797-6254a29d4743","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"48eaf186-ea7c-4b39-be59-86d746e2f0df","path":"sprites/spr_mapBpOverlay/spr_mapBpOverlay.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"48eaf186-ea7c-4b39-be59-86d746e2f0df","path":"sprites/spr_mapBpOverlay/spr_mapBpOverlay.yy",},"LayerId":{"name":"a7a7fbf2-52fb-494e-95fa-9c5d1c750071","path":"sprites/spr_mapBpOverlay/spr_mapBpOverlay.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_mapBpOverlay","path":"sprites/spr_mapBpOverlay/spr_mapBpOverlay.yy",},"resourceVersion":"1.0","name":"48eaf186-ea7c-4b39-be59-86d746e2f0df","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_mapBpOverlay","path":"sprites/spr_mapBpOverlay/spr_mapBpOverlay.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"0addff15-bc90-42e0-85d7-787923e45535","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"927b5e72-3a48-4291-b797-6254a29d4743","path":"sprites/spr_mapBpOverlay/spr_mapBpOverlay.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e1348eca-e84a-41e8-b600-a107780adbca","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"48eaf186-ea7c-4b39-be59-86d746e2f0df","path":"sprites/spr_mapBpOverlay/spr_mapBpOverlay.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9dc93337-4849-4a4d-905b-f931677b307f","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a7a7fbf2-52fb-494e-95fa-9c5d1c750071","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Overlay",

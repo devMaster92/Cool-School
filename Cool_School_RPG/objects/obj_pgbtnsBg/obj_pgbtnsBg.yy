@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_optionsBg",
-    "path": "sprites/spr_optionsBg/spr_optionsBg.yy",
+    "name": "spr_pgOptionsBg",
+    "path": "sprites/spr_pgOptionsBg/spr_pgOptionsBg.yy",
   },
   "solid": false,
   "visible": true,

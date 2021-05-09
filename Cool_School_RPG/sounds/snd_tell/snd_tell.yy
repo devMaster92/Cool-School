@@ -13,8 +13,8 @@
   "soundFile": "snd_tell.wav",
   "duration": 27.0780163,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Art",
+    "path": "folders/Sounds/Art.yy",
   },
   "resourceVersion": "1.0",
   "name": "snd_tell",
