@@ -70,6 +70,7 @@
     {"id":{"name":"obj_seeSaw","path":"objects/obj_seeSaw/obj_seeSaw.yy",},"order":12,},
     {"id":{"name":"rm_pg","path":"rooms/rm_pg/rm_pg.yy",},"order":4,},
     {"id":{"name":"spr_shopFg1","path":"sprites/spr_shopFg1/spr_shopFg1.yy",},"order":1,},
+    {"id":{"name":"spr_phoneScreen2","path":"sprites/spr_phoneScreen2/spr_phoneScreen2.yy",},"order":8,},
     {"id":{"name":"spr_avatar_01","path":"sprites/spr_avatar_01/spr_avatar_01.yy",},"order":2,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"spr_hat_h_1","path":"sprites/spr_hat_h_1/spr_hat_h_1.yy",},"order":5,},

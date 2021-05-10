@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_missionGuide.wav",
-  "duration": 10.1506691,
+  "duration": 6.899694,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

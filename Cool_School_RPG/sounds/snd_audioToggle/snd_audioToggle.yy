@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_audioToggle.wav",
-  "duration": 6.346746,
+  "duration": 7.179966,
   "parent": {
     "name": "Onboarding",
     "path": "folders/Sounds/Onboarding.yy",

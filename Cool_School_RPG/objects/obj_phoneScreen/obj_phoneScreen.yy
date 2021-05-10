@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_phoneScreen",
-    "path": "sprites/spr_phoneScreen/spr_phoneScreen.yy",
+    "name": "spr_phoneScreen2",
+    "path": "sprites/spr_phoneScreen2/spr_phoneScreen2.yy",
   },
   "solid": false,
   "visible": true,
