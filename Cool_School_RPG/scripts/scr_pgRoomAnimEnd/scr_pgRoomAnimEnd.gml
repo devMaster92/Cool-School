@@ -126,8 +126,8 @@ function scr_pgRoomAnimEnd(){
 		}
 		if (global.pgBtnC) {
 	
-			obj_btnC.visible = true;
-			obj_btnsBg.visible = true;
+			obj_pgBtnC.visible = true;
+			obj_pgbtnsBg.visible = true;
 
 		}
 		if (global.pgBtnD) {

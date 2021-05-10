@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a902e5d4-5cee-4daa-8954-34c124711a9c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/Cool_School_RPG.yyp" beforeDir="false" afterPath="$PROJECT_DIR$/Cool_School_RPG/Cool_School_RPG.yyp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/objects/obj_mDoor0/Alarm_0.gml" beforeDir="false" afterPath="$PROJECT_DIR$/Cool_School_RPG/objects/obj_mDoor0/Alarm_0.gml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/objects/obj_mDoor0/Collision_obj_mainPlayer.gml" beforeDir="false" afterPath="$PROJECT_DIR$/Cool_School_RPG/objects/obj_mDoor0/Collision_obj_mainPlayer.gml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/objects/obj_mDoor1/Alarm_0.gml" beforeDir="false" afterPath="$PROJECT_DIR$/Cool_School_RPG/objects/obj_mDoor1/Alarm_0.gml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/objects/obj_mDoor1/Collision_obj_mainPlayer.gml" beforeDir="false" afterPath="$PROJECT_DIR$/Cool_School_RPG/objects/obj_mDoor1/Collision_obj_mainPlayer.gml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/objects/obj_mDoor2/Alarm_0.gml" beforeDir="false" afterPath="$PROJECT_DIR$/Cool_School_RPG/objects/obj_mDoor2/Alarm_0.gml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/objects/obj_mDoor2/Collision_obj_mainPlayer.gml" beforeDir="false" afterPath="$PROJECT_DIR$/Cool_School_RPG/objects/obj_mDoor2/Collision_obj_mainPlayer.gml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/objects/obj_seeSaw/Create_0.gml" beforeDir="false" afterPath="$PROJECT_DIR$/Cool_School_RPG/objects/obj_seeSaw/Create_0.gml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/objects/obj_seeSaw/Step_0.gml" beforeDir="false" afterPath="$PROJECT_DIR$/Cool_School_RPG/objects/obj_seeSaw/Step_0.gml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/objects/obj_transitionArt/Create_0.gml" beforeDir="false" afterPath="$PROJECT_DIR$/Cool_School_RPG/objects/obj_transitionArt/Create_0.gml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/rooms/rm0/rm0.yy" beforeDir="false" afterPath="$PROJECT_DIR$/Cool_School_RPG/rooms/rm0/rm0.yy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/rooms/rm_inventory/rm_inventory.yy" beforeDir="false" afterPath="$PROJECT_DIR$/Cool_School_RPG/rooms/rm_inventory/rm_inventory.yy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/rooms/rm_pg/rm_pg.yy" beforeDir="false" afterPath="$PROJECT_DIR$/Cool_School_RPG/rooms/rm_pg/rm_pg.yy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/scripts/scr_pgRoomAnimEnd/scr_pgRoomAnimEnd.gml" beforeDir="false" afterPath="$PROJECT_DIR$/Cool_School_RPG/scripts/scr_pgRoomAnimEnd/scr_pgRoomAnimEnd.gml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_finalPg/6bc71577-f91e-4815-a8cd-84a73338fd71.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_finalPg/layers/6bc71577-f91e-4815-a8cd-84a73338fd71/55d5a542-7802-4159-b68f-a22896e9826f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_finalPg/spr_finalPg.yy" beforeDir="false" afterPath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_finalPg/spr_finalPg.yy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/26021954-07a6-4298-a391-c7187ad7f133.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/27c9ce76-ca1b-497a-9dfc-ecdd2283082a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/42e1a8fb-b5fe-4a0c-a99c-02bcfee9ed3a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/48531d46-a8b6-4a88-8219-021d132824bd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/4eb95731-3208-474a-b569-6492ea356cdf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/58e3f13c-92e9-4c72-8872-c0124f44b4a4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/5fb38a31-17fc-4d21-9258-5d919f36174a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/76754274-4a1c-4bee-b094-52e4794d46fd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/8d31a3fc-c261-4a79-8d7c-5cfb36c8ac14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/9c335d68-45da-42d5-9cc5-41b7c727cf29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/bca7b613-d08f-4cbf-beb1-797e6ecd90cd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/fb3521f1-bdae-4334-aa09-6d2b67b6450b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/layers/26021954-07a6-4298-a391-c7187ad7f133/ba680611-a22f-4178-a142-4b23e8ad7d2b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/layers/27c9ce76-ca1b-497a-9dfc-ecdd2283082a/ba680611-a22f-4178-a142-4b23e8ad7d2b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/layers/42e1a8fb-b5fe-4a0c-a99c-02bcfee9ed3a/ba680611-a22f-4178-a142-4b23e8ad7d2b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/layers/48531d46-a8b6-4a88-8219-021d132824bd/ba680611-a22f-4178-a142-4b23e8ad7d2b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/layers/4eb95731-3208-474a-b569-6492ea356cdf/ba680611-a22f-4178-a142-4b23e8ad7d2b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/layers/58e3f13c-92e9-4c72-8872-c0124f44b4a4/ba680611-a22f-4178-a142-4b23e8ad7d2b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/layers/5fb38a31-17fc-4d21-9258-5d919f36174a/ba680611-a22f-4178-a142-4b23e8ad7d2b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/layers/76754274-4a1c-4bee-b094-52e4794d46fd/ba680611-a22f-4178-a142-4b23e8ad7d2b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/layers/8d31a3fc-c261-4a79-8d7c-5cfb36c8ac14/ba680611-a22f-4178-a142-4b23e8ad7d2b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/layers/9c335d68-45da-42d5-9cc5-41b7c727cf29/ba680611-a22f-4178-a142-4b23e8ad7d2b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/layers/bca7b613-d08f-4cbf-beb1-797e6ecd90cd/ba680611-a22f-4178-a142-4b23e8ad7d2b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/layers/fb3521f1-bdae-4334-aa09-6d2b67b6450b/ba680611-a22f-4178-a142-4b23e8ad7d2b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/spr_pgStandup.yy" beforeDir="false" afterPath="$PROJECT_DIR$/Cool_School_RPG/sprites/spr_pgStandup/spr_pgStandup.yy" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sMFNBloZTQ5USPo3Ovws2rO1o4" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Groovy" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a902e5d4-5cee-4daa-8954-34c124711a9c" name="Default Changelist" comment="" />
+      <created>1620674508277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620674508277</updated>
+      <workItem from="1620674509637" duration="243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

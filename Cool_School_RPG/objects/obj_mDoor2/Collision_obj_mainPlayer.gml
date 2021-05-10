@@ -8,6 +8,5 @@ if (global.keyReceived) {
 }
 else {
 	obj_roomLocked.visible = true;
-	obj_mCtn.visible = true;
 	alarm[0] = 5;
 }
