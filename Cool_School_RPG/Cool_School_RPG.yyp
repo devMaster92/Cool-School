@@ -347,8 +347,6 @@
     {"id":{"name":"spr_onbHelp","path":"sprites/spr_onbHelp/spr_onbHelp.yy",},"order":2,},
     {"id":{"name":"obj_pants","path":"objects/obj_pants/obj_pants.yy",},"order":3,},
     {"id":{"name":"obj_storeFg","path":"objects/obj_storeFg/obj_storeFg.yy",},"order":10,},
-
-
     {"id":{"name":"snd_drum3","path":"sounds/snd_drum3/snd_drum3.yy",},"order":16,},
     {"id":{"name":"snd_knock","path":"sounds/snd_knock/snd_knock.yy",},"order":4,},
     {"id":{"name":"rm_bearInteract","path":"rooms/rm_bearInteract/rm_bearInteract.yy",},"order":19,},
