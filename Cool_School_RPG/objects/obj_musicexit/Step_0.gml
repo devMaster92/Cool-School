@@ -1,4 +1,4 @@
-/// @description Insert description here
+ /// @description Insert description here
 // You can write your code in this editor
 
 var _mouseX = device_mouse_x_to_gui(0);
@@ -9,7 +9,7 @@ if (_mouseX >= bbox_left and _mouseX <= bbox_right and
 			
 	if (mouse_check_button_pressed(mb_left)) {
 		
-		room_goto(rm0);
+		room_goto(rm_musicroom);
 		if (!instance_exists(obj_mainPlayer))
 			instance_create_depth(1472, 800, 0, obj_mainPlayer);
 	}
