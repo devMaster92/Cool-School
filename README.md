@@ -5,6 +5,10 @@ Cool School Design Sprint Repo
 ## About
 Cool School is an animated learning game that helps children between 4-7 years of age learn and acquire conflict resolution skills.
 
+<img width="400" alt="Landing-Screen" src="https://user-images.githubusercontent.com/17905837/117880056-a8551c80-b275-11eb-80a2-eb94c83e2bec.png"> <img width="400" alt="avatar-customization" src="https://user-images.githubusercontent.com/17905837/117881798-aa1fdf80-b277-11eb-939c-645212bc556d.png">
+<img width="400" alt="game-map" src="https://user-images.githubusercontent.com/17905837/117881813-aee49380-b277-11eb-9584-f346f64ba4df.png"> <img width="400" alt="shop" src="https://user-images.githubusercontent.com/17905837/117881832-b310b100-b277-11eb-8422-2bd7d7e3f7eb.png">
+<img width="400" alt="conflict-scenario" src="https://user-images.githubusercontent.com/17905837/117881847-b6a43800-b277-11eb-87b1-6786495c550e.png"> <img width="400" alt="choice-selection" src="https://user-images.githubusercontent.com/17905837/117881890-c0c63680-b277-11eb-9da0-58c7afffd975.png">
+
 
 ## Steps to run the game
 
@@ -24,22 +28,18 @@ git clone https://github.com/devMaster92/Cool-School.git
 
 * Navigate to the folder **Cool_School_RPG**
 * Open **Cool_School_RPG.yyp** file with Game Maker 2. 
-* Once opened on Game Maker 2, hit **F5** to run the game!
+* Once opened on Game Maker 2, hit the play button to run the game!
+<img width="310" alt="Screen Shot 2021-05-11 at 4 29 57 PM" src="https://user-images.githubusercontent.com/17905837/117880516-34ffda80-b276-11eb-95af-6e967be2b6fb.png">
+ 
 
-## Change Log
+## Features in a nutshell
 
-* Game Environment setup 
-* Added room transition and animation
-* Added Character customization
+* Download and run on your own computer
+* Features a single-player system
+* Runs on (Windows: 2000/XP/Vista/7/8/10, Linux, Mac OS X: 10.6+)
+* With correct settings, it can run on old hardware
+* Contains in-game character customization, onboarding
 
-## Essential git commands
-**To add and push**
-```
-git add -A
-git commit -m "message"
-git push origin master
-```
-**To pull**
-```
-git pull
-```
+
+## Contact information
+For further information please contact devp@terpmail.umd.edu
